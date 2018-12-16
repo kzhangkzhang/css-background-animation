@@ -1,0 +1,12 @@
+{
+  "name": "022_CSS_Background_Animation",
+  "version": "1.0.0",
+  "description": "> Landing page with background animation using CSS. Learning from Youtube Brad Traversy",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "Kevin Zhang",
+  "license": "ISC"
+}
